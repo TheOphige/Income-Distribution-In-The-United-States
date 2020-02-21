@@ -1,4 +1,4 @@
-# Toy_dataset_analysis
+# Income Distribution in the United States
 This is a data Analysis project on the income of people in some cities of the united states. 
 The cities are:
 1. Mountain view 
